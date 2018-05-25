@@ -22,7 +22,7 @@ class Sincere {
 		$curl->exec();
 	}
 	function bk() {
-
+		// 
 	}
 	function draw() {
 		$time = time();
